@@ -1,5 +1,12 @@
 # 🚀 **LB PUMP**  
 
+
+## 📞 **Contact**  
+
+Need help, have questions, or want to collaborate? Reach out!  
+
+- **Telegram**: [@gigi0500](https://t.me/gigi0500)
+- 
 ![Screenshot_44](https://github.com/user-attachments/assets/686089c7-77fe-491c-a84d-f31c80ca2244)
 
 LB PUMP is a dynamic platform inspired by pump.fun. This site serves as an interactive space to inform users about the project, with user-friendly features that enable customization and updates. The platform is powered by modern technologies in both frontend, backend, and smart contract development.  
@@ -150,12 +157,6 @@ lb-pump/
 - **Deployment**: When deploying, ensure to use production database credentials and secure environment variables.  
 
 ---
-
-## 📞 **Contact**  
-
-Need help, have questions, or want to collaborate? Reach out!  
-
-- **Telegram**: [@topsecretagnt_007](https://t.me/topsecretagnt_007)  
 
 If you find this project useful, feel free to give it a ⭐ on GitHub.  
 
